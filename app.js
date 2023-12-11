@@ -8,10 +8,10 @@ const jwt = require('jsonwebtoken');
 
 
 const connection = mysql.createConnection({
-  host: 'localhost',
-  user: 'root', 
-  password: 'root', 
-  database: 'budgetApp',
+  host: 'sql5.freemysqlhosting.net',
+  user: 'sql5669338', 
+  password: 'ExXsLmXw2z', 
+  database: 'sql5669338',
 });
 
 
